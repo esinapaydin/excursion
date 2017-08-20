@@ -6,8 +6,11 @@ h1{
 font-family: Verdana;
 font-size: 50px;
 color: white;
+  text-allign: centered;
 }
 p{
 color: aquamarine;
 font-size: 16px;
+  text-alling: center;
+  font-family: Verdana;
 }
